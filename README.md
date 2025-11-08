@@ -31,7 +31,7 @@ pip install -r requirements.txt
 ### 启动软件
 
 ```bash
-python run_gui.py
+python calcium_aligner_gui.py
 ```
 
 ### 单个配准
