@@ -51,7 +51,7 @@ class Suite2PRegistration:
 
     def __init__(
         self,
-        smooth_sigma: float = 1.15,
+        smooth_sigma: float = 1.125,
         maxregshift: float = 0.1,
         smooth_sigma_time: float = 0,
         niter: int = 8,
@@ -63,7 +63,7 @@ class Suite2PRegistration:
         Parameters
         ----------
         smooth_sigma : float
-            空间平滑的标准差，默认1.15
+            空间平滑的标准差，默认1.125
         maxregshift : float
             最大位移比例 (相对于图像最小维度)
         smooth_sigma_time : float
