@@ -1,0 +1,8 @@
+*.exe
+calcium_aligner_gui.build
+calcium_aligner_gui.dist
+calcium_aligner_gui.onefile-build
+data
+output
+run_gui.build
+__pycache__
