@@ -2,6 +2,9 @@
 
 基于PySide6和Suite2p算法的钙成像TIFF堆栈配准软件。
 
+![配准过程](https://github.com/user-attachments/assets/e0857971-df96-45a6-92a2-ab997cd11903)
+
+
 ## 功能特点
 
 - **单个文件配准**: 支持单个TIFF文件的配准处理
@@ -28,7 +31,7 @@ pip install -r requirements.txt
 ### 启动软件
 
 ```bash
-python run_gui.py
+python calcium_aligner_gui.py
 ```
 
 ### 单个配准
